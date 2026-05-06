@@ -49,3 +49,7 @@
 В этом репозитории находится только исправленный скрипт, не весь аватар.
 Как использовать: замените оригинальный `EZAnims_modified.lua` в папке вашего
 аватара Figura на файл из этого репо. ("/figura/avatars/Figured_Animations_Default/libs/EZAnims_modified.lua" или "/figura/avatars/Figured_Animations_Slim/libs/EZAnims_modified.lua")
+
+---
+
+Лицензировано под [MIT License](LICENSE).
