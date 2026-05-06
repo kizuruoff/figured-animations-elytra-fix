@@ -49,7 +49,6 @@ Original avatar by [chmonyasik](https://ko-fi.com/Y8Y5GI5G8/shop).
 This repository contains only the fixed script, not the full avatar.
 To use: replace the original `EZAnims_modified.lua` in your Figura avatar folder with the file from this repo. ("/figura/avatars/Figured_Animations_Default/libs/EZAnims_modified.lua" or "/figura/avatars/Figured_Animations_Slim/libs/EZAnims_modified.lua")
 
-
-
+---
 
 Licensed under the [MIT License](LICENSE).
