@@ -5,6 +5,11 @@
 A bugfix for the [Figured Animations](https://ko-fi.com/s/4b72daaa14) avatar
 for the [Figura](https://modrinth.com/mod/figura) Minecraft mod.
 
+⚠️ **Important Notice**
+
+This fix is for the **old version** of Figured Animations.  
+The author is currently working on a full remake (Version 2.0), so this fix may become outdated soon.
+
 ## The Bug
 
 When flying with elytra, the player's legs would visibly tremble/shake.
